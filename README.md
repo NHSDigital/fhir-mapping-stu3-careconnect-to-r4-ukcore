@@ -1,9 +1,5 @@
 # FHIR mapping artefact used in transformation from STU3 CareConnect to R4 UKCore
 
-## CareConnect to UKCore transform guidance
-
-The FHIR artefacts in this repostiory are the source for the Implementation Guide at https://simplifier.net/stu3-careconnect-to-r4-ukcore-transform-guidance
-
 ## FML and StructureMap usage
 
 This repository provides artefacts that can be used with the [validator_cli](https://github.com/hapifhir/org.hl7.fhir.core/releases/latest/download/validator_cli.jar) with the following invocation
